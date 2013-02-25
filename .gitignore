@@ -1,0 +1,13 @@
+*.suo
+*.user
+*.cachefile
+*.xnb
+*.sln.docstates
+*.cache
+*.pyc
+_Resharper.*
+RelativisticMotion/bin
+RelativisticMotion/obj
+RelativisticMotionTest/bin
+RelativisticMotionTest/obj
+TestResults
